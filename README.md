@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ziz69
 - 👀 I’m interested in learn everything about technology and coding.
-- 🌱 I’m currently learning Python, Java
+- 🌱 I’m currently learning Python
 - 💞️ I'm looking to make my dreams come true and change the world!!
 - 📫 You can send an email to "zizoficial69@outlook.com" 
 
